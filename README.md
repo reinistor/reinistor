@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src="YOUR_IMAGE_URL_HERE" width="300px" align="center" alt="Profile Picture">
+<img src="https://i1.sndcdn.com/artworks-000972201367-2polnr-t500x500.jpg" width="300px" align="center" alt="Profile Picture">
 </p>
 
 <p align="center">
