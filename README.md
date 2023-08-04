@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    🚀 I’m currently working on various software projects and expanding my skills in <b>Web Development</b>
+    I’m currently working on various software projects and expanding my skills in <b>Web Development</b> 🚀
 </p>
 
 <hr>
